@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PropertyList>
+
+  <sim>
+    <model>
+      <livery>
+        <name type="string">24 Sqn RFC</name>
+<!--F5459 - SE5a. Built at Vickers, Surrey, UK, and given to 24 Sqn on 10/9/1918.  One kill, by Lt TM Harries, over Northern France.  Transferred to 1 Sqn on 22/1/1919 and returned to England on 2/2/1919  [The SE5 File, Sturtivant and Page, Air Britain, 1996. Aircraft Profiles No.1, 1965, Profile Publications.]-->
+        <texture>Liveries/rfc_24_sqn.png</texture>
+<!--
+        <diffuse>
+          <red>   0.5 </red>
+          <green> 0.5 </green>
+          <blue>  0.5 </blue>
+        </diffuse>
+
+        <ambient>
+          <red>   0.5 </red>
+          <green> 0.5 </green>
+          <blue>  0.5 </blue>
+        </ambient> -->
+
+        <specular>
+          <red>   0.3 </red>
+          <green> 0.3 </green>
+          <blue>  0.3 </blue>
+        </specular>
+
+        <emission>
+          <red>   0.2 </red>
+          <green> 0.2 </green>
+          <blue>  0.2 </blue>
+        </emission>
+   <!--     <transparency>
+          <alpha> 0.0 </alpha>
+        </transparency>
+
+        <shininess>10</shininess>-->
+      </livery>
+    </model>
+  </sim>
+
+</PropertyList>

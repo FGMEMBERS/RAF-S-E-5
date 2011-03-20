@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PropertyList>
+
+  <sim>
+    <model>
+      <livery>
+        <name type="string">25th Aero Sqn USA</name>
+        <!--No. 19 of 'C' Flight 25th Aero Squadron USA.  Arrived at Ayr, UK, from Camp Kelly, Texas, USA, on 31/1/18 and arrived in France on 20/8/18.  Subsequently returned to USA and demobilised at Mitchell Field, NY, USA on 17/6/19.  [The SE5 File, Sturtivant and Page, Air Britain, 1996. Aircraft Profiles No.1, 1965, Profile Publications.]-->
+        <texture>Liveries/usa_25_sqn.png</texture>
+<!--
+        <diffuse>
+          <red>   0.5 </red>
+          <green> 0.5 </green>
+          <blue>  0.5 </blue>
+        </diffuse>
+
+        <ambient>
+          <red>   0.5 </red>
+          <green> 0.5 </green>
+          <blue>  0.5 </blue>
+        </ambient>
+-->
+        <specular>
+          <red>   0.3 </red>
+          <green> 0.3 </green>
+          <blue>  0.3 </blue>
+        </specular>
+
+        <emission>
+          <red>   0.2 </red>
+          <green> 0.2 </green>
+          <blue>  0.2 </blue>
+        </emission>
+<!--
+        <transparency>
+          <alpha> 0.0 </alpha>
+        </transparency>
+
+        <shininess>10</shininess>
+-->
+      </livery>
+    </model>
+  </sim>
+
+</PropertyList>

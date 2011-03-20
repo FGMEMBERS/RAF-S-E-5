@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PropertyList>
+
+  <sim>
+    <model>
+      <livery>
+        <name type="string">40 Sqn RFC</name>
+       <!--Built at Vickers, Weybridge, UK, and delivered to No 10 Aeroplane Acceptance Park, Brooklands, and assigned to 40 Squadron RFC on 7/4/18.  Four kills over Northern France, three by Capt GH Lewis, but later landed heavily breaking undercarriage and struck off as not worth repair on 12/6/18.  [The SE5 File, Sturtivant and Page, Air Britain, 1996. Aircraft Profiles No.1, 1965, Profile Publications.]-->
+        <texture>Liveries/rfc_40_sqn.png</texture>
+<!--
+        <diffuse>
+          <red>   0.5 </red>
+          <green> 0.5 </green>
+          <blue>  0.5 </blue>
+        </diffuse>
+
+        <ambient>
+          <red>   0.5 </red>
+          <green> 0.5 </green>
+          <blue>  0.5 </blue>
+        </ambient>
+-->
+        <specular>
+          <red>   0.3 </red>
+          <green> 0.3 </green>
+          <blue>  0.3 </blue>
+        </specular>
+
+        <emission>
+          <red>   0.2 </red>
+          <green> 0.2 </green>
+          <blue>  0.2 </blue>
+        </emission>
+<!--
+        <transparency>
+          <alpha> 0.0 </alpha>
+        </transparency>
+
+        <shininess>10</shininess>
+-->
+      </livery>
+    </model>
+  </sim>
+
+</PropertyList>
