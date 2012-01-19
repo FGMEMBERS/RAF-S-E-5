@@ -143,8 +143,17 @@
 
   <!-- Une ombre pour OSG -->
   <model>
-    <name>shadowOSG</name>
     <path>Aircraft/RAF-S-E-5/Models/shadow.xml</path>
+    <offsets>
+      <x-m>  0 </x-m>
+      <y-m>  0 </y-m>
+      <z-m> -1.068 </z-m>
+    </offsets>
+  </model>
+
+  <!-- Intérieur -->
+  <model>
+    <path>Aircraft/RAF-S-E-5/Models/Interior/interior.xml</path>
   </model>
 
   <!-- Cranking effects -->
@@ -202,16 +211,6 @@
       <x-m>  2.903 </x-m>
       <y-m>  0.000 </y-m>
       <z-m> -0.454 </z-m>
-    </offsets>
-  </model>
-
-  <!-- Intérieur -->
-  <model>
-    <path>Aircraft/RAF-S-E-5/Models/Interior/interior.xml</path>
-    <offsets>
-      <x-m> 0 </x-m>
-      <y-m> 0 </y-m>
-      <z-m> 0 </z-m>
     </offsets>
   </model>
 
