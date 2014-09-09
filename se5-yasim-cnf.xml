@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PropertyList include="se5-base.xml">
+
+  <sim>
+
+    <description>RAF S.E.5 (YASim)</description>
+    <flight-model archive="y">yasim</flight-model>
+    <aero archive="y">se5-yasim</aero>
+
+  </sim>
+
+</PropertyList>

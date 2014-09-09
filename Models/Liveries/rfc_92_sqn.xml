@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PropertyList>
+
+  <sim>
+    <model>
+      <livery>
+        <name type="string">92 Sqn RFC</name>
+		<!--F943 - SE5a. Made by Wolseley Motors, Birmingham UK.  Given to 92 Sqn by 3/3/19 and was noted at No 8 Aeroplane Acceptance Park, Lympne, Kent, UK on 29/7/19. [The SE5 File, Sturtivant and Page, Air Britain, 1996. Aircraft Profiles, No.1 1965, Profile Publications.]-->
+        <texture>Liveries/rfc_92_sqn.png</texture>
+<!--
+        <diffuse>
+          <red>   0.5 </red>
+          <green> 0.5 </green>
+          <blue>  0.5 </blue>
+        </diffuse>
+
+        <ambient>
+          <red>   0.5 </red>
+          <green> 0.5 </green>
+          <blue>  0.5 </blue>
+        </ambient>
+-->
+        <specular>
+          <red>   0.3 </red>
+          <green> 0.3 </green>
+          <blue>  0.3 </blue>
+        </specular>
+
+        <emission>
+          <red>   0.2 </red>
+          <green> 0.2 </green>
+          <blue>  0.2 </blue>
+        </emission>
+<!--
+        <transparency>
+          <alpha> 0.0 </alpha>
+        </transparency>
+
+        <shininess>10</shininess>
+-->
+      </livery>
+    </model>
+  </sim>
+
+</PropertyList>
