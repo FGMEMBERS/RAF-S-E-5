@@ -23,6 +23,8 @@ Crew                          :
 Some useful keys:
 =================
 
+e : gun fire
+
 Thanks
 ======
 
@@ -31,6 +33,7 @@ BARANGER Emmanuel
 February, 17, 2011. 
 
 http://helijah.free.fr/flightgear/hangar.htm
+http://embaranger.free.fr
 embaranger@free.fr
 
 
@@ -58,6 +61,8 @@ Equipage                      :
 Quelques touches utiles :
 =========================
 
+e : faire feu
+
 Remerciements
 =============
 
@@ -66,5 +71,5 @@ BARANGER Emmanuel
 17 Février 2011.
 
 http://helijah.free.fr/flightgear/hangar.htm
+http://embaranger.free.fr
 embaranger@free.fr
-
