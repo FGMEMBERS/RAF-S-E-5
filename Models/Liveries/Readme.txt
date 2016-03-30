@@ -19,4 +19,3 @@ usa_25_sqn
 These liveries were made by : PD HOBSON 2011
 
 Thanks to him.
-

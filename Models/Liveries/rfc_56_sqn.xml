@@ -1,44 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="ISO-8859-1"?>
 
+<!--B4863 - SE5a.
+
+    Made Farnborough, UK, given to 56 Squadron on 5/9/1917.  
+    Six kills by Capt. JTB McCudden over Northern France and Belgium.  
+    One by Lt. RA Maybery before being shot through petrol tank, and maing 
+    forced landing. This machine was repaired but landed badly after hitting 
+    a house during darkness on return on England, repaired again but struck 
+    off 7/4/1918. [The SE5 File, Sturtivant and Page, Air Britain, 1996. 
+    Aircraft Profiles, No.1 1965, Profile Publications.]
+-->
 <PropertyList>
 
   <sim>
+    
     <model>
       <livery>
         <name type="string">56 Sqn RFC</name>	
-<!--B4863 - SE5a. Made Farnborough, UK, given to 56 Squadron on 5/9/1917.  Six kills by Capt. JTB McCudden over Northern France and Belgium.  One by Lt. RA Maybery before being shot through petrol tank, and maing forced landing.  This machine was repaired but landed badly after hitting a house during darkness on return on England, repaired again but struck off 7/4/1918. [The SE5 File, Sturtivant and Page, Air Britain, 1996. Aircraft Profiles, No.1 1965, Profile Publications.]-->
-        <texture>Liveries/rfc_56_sqn.png</texture>
-
-  <!--      <diffuse>
-          <red>   0.5 </red>
-          <green> 0.5 </green>
-          <blue>  0.5 </blue>
-        </diffuse>
-
-        <ambient>
-          <red>   0.5 </red>
-          <green> 0.5 </green>
-          <blue>  0.5 </blue>
-        </ambient> -->
-
+        <texture>Liveries/1024x1024/rfc_56_sqn.png</texture>
         <specular>
           <red>   0.3 </red>
           <green> 0.3 </green>
           <blue>  0.3 </blue>
         </specular>
-
-        <emission>
-          <red>   0.2 </red>
-          <green> 0.2 </green>
-          <blue>  0.2 </blue>
-        </emission>
-        <!--<transparency>
-          <alpha> 0.0 </alpha>
-        </transparency>
-
-        <shininess>10</shininess>-->
       </livery>
     </model>
+    
   </sim>
 
 </PropertyList>
